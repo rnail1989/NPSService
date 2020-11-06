@@ -1,4 +1,4 @@
-package tech.itpark.NPSService;
+package tech.itpark.npsService;
 
 public class NPSService {
     public double nps(int [] votes){
