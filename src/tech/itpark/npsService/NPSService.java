@@ -3,6 +3,7 @@ package tech.itpark.npsService;
 public class NPSService {
     public double nps(int[] votes) {
 
+
         int promoters = 0;
         int enemy = 0;
         int count = 0;
